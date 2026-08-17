@@ -1,5 +1,11 @@
 # DevOps & Automation Lab: CI/CD Pipeline (Tasks 1, 2 & 3)
 
+**Student Details:**
+- **Name:** Vikrant Singh
+- **Roll No:** 2301010028
+- **Course:** B.Tech CSE (Semester 7)
+
+
 Welcome to the central repository for **Tasks 1, 2, and 3** of the DevOps & Automation Lab (ENSP461).
 
 This project demonstrates the implementation of a fully automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins, Git, and Nginx.
